@@ -1,6 +1,6 @@
-# Awesome Books
+# Webpack
 
-Welcome to my Awesome Books project
+Welcome to my Webpack project
 
 <a name="readme-top"></a>
 
@@ -23,9 +23,9 @@ Welcome to my Awesome Books project
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books! <a name="about-project"></a>
+# 📖 Webpack! <a name="about-project"></a>
 
-**Awesome Books!** This project MUST be opened from VS Code for full functionality. In this project we develop a single page aplication to storage a collection of books.
+**Webpack!** This project teache me how to setup webpack.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,9 +42,7 @@ Welcome to my Awesome Books project
 
 ### Key Features <a name="key-features"></a>
 
-- **A book contains title and author**
-- **The user can add or delete a book**
-- **The list of books will be preserved in local storage**
+- **A project to learn how to use webpack**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +60,7 @@ Welcome to my Awesome Books project
   https://git-scm.com/downloads and install it).
 - Step 2: Once you have installed git you can clone this project using the command below:
   ```
-  git clone https://github.com/Jrmcuervo/awesome-books.git
+  git clone https://github.com/Jrmcuervo/webpack.git
   ```
 - Step 3: Once you have cloned this repo navigate to the folder that contains
   the repository.
@@ -81,20 +79,11 @@ Welcome to my Awesome Books project
 - Twitter: [@Jrmcuervom](https://twitter.com/Jrcuervom)
 - LinkedIn: [Jrmcuervom](https://www.linkedin.com/in/Jrcuervom/)
 
-👤 **Dani Morillo**
-
-- GitHub: [@danifromecuador](https://github.com/danifromecuador)
-- Twitter: [@danifromecuador](https://twitter.com/danifromecuador)
-- LinkedIn: [danifromecuador](https://www.linkedin.com/in/danifromecuador/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- If a book is actually added the user can't add it again
-- The books could be ordered by author
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,9 +108,6 @@ If you like this Awesome Books project please share my portfolio with recruters!
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank the Codepip company for creating the game called css frog.
-https://twitter.com/playcodepip
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
