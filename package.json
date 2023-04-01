@@ -50,5 +50,8 @@
       "hint",
       "lighthouse"
     ]
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
